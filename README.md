@@ -34,8 +34,10 @@ Open http://localhost:3000.
 ```bash
 npm install -g @webflow/webflow-cli
 webflow auth login
-webflow cloud deploy
+webflow apps deploy
 ```
+
+(`webflow cloud deploy` still works but is deprecated in CLI 2.13+.)
 
 On the first deploy pick **Existing site** (mounts the app at a path such as `/app`
 on your Webflow site) or **New domain**. For CI use `--no-input --site-id <id>`.

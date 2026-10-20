@@ -9,7 +9,7 @@
     "start": "next start",
     "lint": "next lint",
     "preview": "opennextjs-cloudflare build && opennextjs-cloudflare preview",
-    "deploy:webflow": "webflow cloud deploy"
+    "deploy:webflow": "webflow apps deploy"
   },
   "engines": {
     "node": ">=22"
