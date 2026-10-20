@@ -1,0 +1,26 @@
+{
+  "name": "onetrust-sandbox-inc",
+  "version": "0.1.0",
+  "private": true,
+  "description": "OneTrust Sandbox Inc - fictional Next.js test site for Webflow Cloud",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "preview": "opennextjs-cloudflare build && opennextjs-cloudflare preview",
+    "deploy:webflow": "webflow cloud deploy"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "@opennextjs/cloudflare": "^1.20.12",
+    "next": "^15.5.28",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "wrangler": "^4.151.3"
+  }
+}

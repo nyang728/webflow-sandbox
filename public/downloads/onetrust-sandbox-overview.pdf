@@ -1,0 +1,46 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 813 >>
+stream
+0 0 0 rg 0 732 612 60 re f
+0.07 0.63 0.31 rg 0 728 612 4 re f
+BT 1 1 1 rg /F2 22 Tf 50 752 Td (OneTrust Sandbox Inc) Tj ET
+BT 0 0 0 rg /F1 13 Tf 50 702 Td (Platform Overview \(Test Document\)) Tj ET
+BT 0 0 0 rg /F1 11 Tf 50 658 Td (This PDF is a fictional resource used to test file downloads) Tj ET
+BT 0 0 0 rg /F1 11 Tf 50 637 Td (from a Next.js site deployed on Webflow Cloud.) Tj ET
+BT 0 0 0 rg /F2 13 Tf 50 595 Td (Services) Tj ET
+BT 0 0 0 rg /F1 11 Tf 50 572 Td (- Consent Sandbox: cookie banners and preference centers) Tj ET
+BT 0 0 0 rg /F1 11 Tf 50 551 Td (- Data Mapping Lab: data inventories with fake records) Tj ET
+BT 0 0 0 rg /F1 11 Tf 50 530 Td (- Deployment Testing: Next.js on Webflow Cloud) Tj ET
+BT 0 0 0 rg /F1 9 Tf 50 488 Td (All names, people, and data in this document are fictional.) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000001115 00000 n 
+0000001185 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+1260
+%%EOF
